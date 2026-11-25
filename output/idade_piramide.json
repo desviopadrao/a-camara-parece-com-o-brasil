@@ -1,0 +1,105 @@
+{
+  "referencia_populacao": "população residente de 18 anos ou mais, Censo 2022 (idade em 2022)",
+  "referencia_camara": "idade dos eleitos na posse (01/02/2027)",
+  "mediana_idade_camara": 49.0,
+  "faixas": [
+    {
+      "faixa": "18 a 29",
+      "camara_homens_pct": 3.3,
+      "camara_mulheres_pct": 0.8,
+      "populacao_homens_pct": 11.9,
+      "populacao_mulheres_pct": 11.9
+    },
+    {
+      "faixa": "30 a 39",
+      "camara_homens_pct": 11.3,
+      "camara_mulheres_pct": 5.3,
+      "populacao_homens_pct": 10.0,
+      "populacao_mulheres_pct": 10.5
+    },
+    {
+      "faixa": "40 a 49",
+      "camara_homens_pct": 24.0,
+      "camara_mulheres_pct": 7.2,
+      "populacao_homens_pct": 9.3,
+      "populacao_mulheres_pct": 10.0
+    },
+    {
+      "faixa": "50 a 59",
+      "camara_homens_pct": 19.5,
+      "camara_mulheres_pct": 5.1,
+      "populacao_homens_pct": 7.4,
+      "populacao_mulheres_pct": 8.3
+    },
+    {
+      "faixa": "60 a 69",
+      "camara_homens_pct": 15.0,
+      "camara_mulheres_pct": 2.5,
+      "populacao_homens_pct": 5.3,
+      "populacao_mulheres_pct": 6.2
+    },
+    {
+      "faixa": "70 ou mais",
+      "camara_homens_pct": 5.7,
+      "camara_mulheres_pct": 0.4,
+      "populacao_homens_pct": 3.9,
+      "populacao_mulheres_pct": 5.4
+    }
+  ],
+  "totais_por_faixa": [
+    {
+      "id": "18_a_29",
+      "grupo": "18 a 29",
+      "camara_n": 21,
+      "camara_pct": 4.1,
+      "populacao_pct": 23.8,
+      "dif_pp": -19.7,
+      "cadeiras_proporcionais": 122
+    },
+    {
+      "id": "30_a_39",
+      "grupo": "30 a 39",
+      "camara_n": 85,
+      "camara_pct": 16.6,
+      "populacao_pct": 20.5,
+      "dif_pp": -3.9,
+      "cadeiras_proporcionais": 105
+    },
+    {
+      "id": "40_a_49",
+      "grupo": "40 a 49",
+      "camara_n": 160,
+      "camara_pct": 31.2,
+      "populacao_pct": 19.3,
+      "dif_pp": 11.9,
+      "cadeiras_proporcionais": 99
+    },
+    {
+      "id": "50_a_59",
+      "grupo": "50 a 59",
+      "camara_n": 126,
+      "camara_pct": 24.6,
+      "populacao_pct": 15.7,
+      "dif_pp": 8.9,
+      "cadeiras_proporcionais": 80
+    },
+    {
+      "id": "60_a_69",
+      "grupo": "60 a 69",
+      "camara_n": 90,
+      "camara_pct": 17.5,
+      "populacao_pct": 11.5,
+      "dif_pp": 6.0,
+      "cadeiras_proporcionais": 59
+    },
+    {
+      "id": "70_ou_mais",
+      "grupo": "70 ou mais",
+      "camara_n": 31,
+      "camara_pct": 6.0,
+      "populacao_pct": 9.3,
+      "dif_pp": -3.2,
+      "cadeiras_proporcionais": 48
+    }
+  ]
+}

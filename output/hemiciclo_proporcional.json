@@ -1,0 +1,77 @@
+{
+  "titulo": "Se a Câmara fosse o Brasil — cadeiras proporcionais à população (Censo 2022)",
+  "total_cadeiras": 513,
+  "ordem": "mulheres primeiro; raça: branca, parda, preta, indígena, amarela",
+  "grupos": [
+    {
+      "id": "mulheres_branca",
+      "sexo": "Mulheres",
+      "raca": "Branca",
+      "rotulo": "Mulheres brancas",
+      "cadeiras": 117
+    },
+    {
+      "id": "mulheres_parda",
+      "sexo": "Mulheres",
+      "raca": "Parda",
+      "rotulo": "Mulheres pardas",
+      "cadeiras": 118
+    },
+    {
+      "id": "mulheres_preta",
+      "sexo": "Mulheres",
+      "raca": "Preta",
+      "rotulo": "Mulheres pretas",
+      "cadeiras": 26
+    },
+    {
+      "id": "mulheres_indigena",
+      "sexo": "Mulheres",
+      "raca": "Indígena",
+      "rotulo": "Mulheres indígenas",
+      "cadeiras": 2
+    },
+    {
+      "id": "mulheres_amarela",
+      "sexo": "Mulheres",
+      "raca": "Amarela",
+      "rotulo": "Mulheres amarelas",
+      "cadeiras": 1
+    },
+    {
+      "id": "homens_branca",
+      "sexo": "Homens",
+      "raca": "Branca",
+      "rotulo": "Homens brancos",
+      "cadeiras": 106
+    },
+    {
+      "id": "homens_parda",
+      "sexo": "Homens",
+      "raca": "Parda",
+      "rotulo": "Homens pardos",
+      "cadeiras": 114
+    },
+    {
+      "id": "homens_preta",
+      "sexo": "Homens",
+      "raca": "Preta",
+      "rotulo": "Homens pretos",
+      "cadeiras": 27
+    },
+    {
+      "id": "homens_indigena",
+      "sexo": "Homens",
+      "raca": "Indígena",
+      "rotulo": "Homens indígenas",
+      "cadeiras": 1
+    },
+    {
+      "id": "homens_amarela",
+      "sexo": "Homens",
+      "raca": "Amarela",
+      "rotulo": "Homens amarelos",
+      "cadeiras": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "referencia_populacao": "população residente total que declarou cor ou raça, Censo 2022",
+  "dados": [
+    {
+      "id": "branca",
+      "grupo": "Branca",
+      "camara_n": 374,
+      "camara_pct": 72.9,
+      "populacao_pct": 43.5,
+      "dif_pp": 29.4,
+      "cadeiras_proporcionais": 223
+    },
+    {
+      "id": "parda",
+      "grupo": "Parda",
+      "camara_n": 106,
+      "camara_pct": 20.7,
+      "populacao_pct": 45.3,
+      "dif_pp": -24.7,
+      "cadeiras_proporcionais": 233
+    },
+    {
+      "id": "preta",
+      "grupo": "Preta",
+      "camara_n": 29,
+      "camara_pct": 5.7,
+      "populacao_pct": 10.2,
+      "dif_pp": -4.5,
+      "cadeiras_proporcionais": 52
+    },
+    {
+      "id": "indigena",
+      "grupo": "Indígena",
+      "camara_n": 3,
+      "camara_pct": 0.6,
+      "populacao_pct": 0.6,
+      "dif_pp": 0.0,
+      "cadeiras_proporcionais": 3
+    },
+    {
+      "id": "amarela",
+      "grupo": "Amarela",
+      "camara_n": 1,
+      "camara_pct": 0.2,
+      "populacao_pct": 0.4,
+      "dif_pp": -0.2,
+      "cadeiras_proporcionais": 2
+    }
+  ],
+  "agregado_pretos_e_pardos": {
+    "id": "pretos_e_pardos",
+    "grupo": "Pretos e pardos",
+    "camara_n": 135,
+    "camara_pct": 26.3,
+    "populacao_pct": 55.5,
+    "dif_pp": -29.2,
+    "cadeiras_proporcionais": 285
+  }
+}

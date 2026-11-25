@@ -1,0 +1,23 @@
+{
+  "referencia_populacao": "população residente total, Censo 2022",
+  "dados": [
+    {
+      "id": "mulheres",
+      "grupo": "Mulheres",
+      "camara_n": 109,
+      "camara_pct": 21.2,
+      "populacao_pct": 51.5,
+      "dif_pp": -30.2,
+      "cadeiras_proporcionais": 264
+    },
+    {
+      "id": "homens",
+      "grupo": "Homens",
+      "camara_n": 404,
+      "camara_pct": 78.8,
+      "populacao_pct": 48.5,
+      "dif_pp": 30.2,
+      "cadeiras_proporcionais": 249
+    }
+  ]
+}

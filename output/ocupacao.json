@@ -1,0 +1,175 @@
+{
+  "destaque_mandato_politico": {
+    "eleitos": 230,
+    "total": 513,
+    "pct": 44.8,
+    "ocupacoes": [
+      "DEPUTADA/DEPUTADO",
+      "MINISTRA/MINISTRO DE ESTADO",
+      "SENADORA/SENADOR",
+      "VEREADORA/VEREADOR"
+    ]
+  },
+  "base_comparacao": {
+    "eleitos": 513,
+    "mandato político (destaque)": 230,
+    "não classificáveis": 31,
+    "base da comparação COD": 252
+  },
+  "referencia_populacao": "pessoas de 14 anos ou mais ocupadas na semana de referência, Censo 2022 (exclui 'Ocupações mal definidas')",
+  "nota": "cadeiras_proporcionais distribuem as 513 cadeiras pela estrutura ocupacional da população; percentuais da Câmara são sobre os eleitos não políticos e classificáveis",
+  "dados": [
+    {
+      "id": "trabalhadores_dos_servicos_vendedores_dos_comercios_e_mercados",
+      "grupo": "Serviços e comércio",
+      "camara_n": 7,
+      "camara_pct": 2.8,
+      "populacao_pct": 21.4,
+      "dif_pp": -18.6,
+      "cadeiras_proporcionais": 110,
+      "nome_cod": "Trabalhadores dos serviços, vendedores dos comércios e mercados"
+    },
+    {
+      "id": "ocupacoes_elementares",
+      "grupo": "Ocupações elementares",
+      "camara_n": 1,
+      "camara_pct": 0.4,
+      "populacao_pct": 17.8,
+      "dif_pp": -17.4,
+      "cadeiras_proporcionais": 91,
+      "nome_cod": "Ocupações elementares"
+    },
+    {
+      "id": "trabalhadores_qualificados_operarios_e_artesaos_da_construcao_das_artes_mecanicas_e_outros_oficios",
+      "grupo": "Operários e artesãos",
+      "camara_n": 0,
+      "camara_pct": 0.0,
+      "populacao_pct": 13.5,
+      "dif_pp": -13.5,
+      "cadeiras_proporcionais": 69,
+      "nome_cod": "Trabalhadores qualificados, operários e artesãos da construção, das artes mecânicas e outros ofícios"
+    },
+    {
+      "id": "profissionais_das_ciencias_e_intelectuais",
+      "grupo": "Profissionais de nível superior",
+      "camara_n": 157,
+      "camara_pct": 62.3,
+      "populacao_pct": 12.3,
+      "dif_pp": 50.0,
+      "cadeiras_proporcionais": 63,
+      "nome_cod": "Profissionais das ciências e intelectuais"
+    },
+    {
+      "id": "trabalhadores_de_apoio_administrativo",
+      "grupo": "Apoio administrativo",
+      "camara_n": 1,
+      "camara_pct": 0.4,
+      "populacao_pct": 8.3,
+      "dif_pp": -7.9,
+      "cadeiras_proporcionais": 43,
+      "nome_cod": "Trabalhadores de apoio administrativo"
+    },
+    {
+      "id": "tecnicos_e_profissionais_de_nivel_medio",
+      "grupo": "Técnicos de nível médio",
+      "camara_n": 3,
+      "camara_pct": 1.2,
+      "populacao_pct": 8.1,
+      "dif_pp": -7.0,
+      "cadeiras_proporcionais": 42,
+      "nome_cod": "Técnicos e profissionais de nível médio"
+    },
+    {
+      "id": "operadores_de_instalacoes_e_maquinas_e_montadores",
+      "grupo": "Operadores de máquinas",
+      "camara_n": 0,
+      "camara_pct": 0.0,
+      "populacao_pct": 7.9,
+      "dif_pp": -7.9,
+      "cadeiras_proporcionais": 40,
+      "nome_cod": "Operadores de instalações e máquinas e montadores"
+    },
+    {
+      "id": "trabalhadores_qualificados_da_agropecuaria_florestais_da_caca_e_da_pesca",
+      "grupo": "Agropecuária",
+      "camara_n": 13,
+      "camara_pct": 5.2,
+      "populacao_pct": 5.2,
+      "dif_pp": -0.1,
+      "cadeiras_proporcionais": 27,
+      "nome_cod": "Trabalhadores qualificados da agropecuária, florestais, da caça e da pesca"
+    },
+    {
+      "id": "diretores_e_gerentes",
+      "grupo": "Diretores e gerentes",
+      "camara_n": 61,
+      "camara_pct": 24.2,
+      "populacao_pct": 4.8,
+      "dif_pp": 19.4,
+      "cadeiras_proporcionais": 25,
+      "nome_cod": "Diretores e gerentes"
+    },
+    {
+      "id": "membros_das_forcas_armadas_policiais_bombeiros_militares",
+      "grupo": "Militares e policiais militares",
+      "camara_n": 9,
+      "camara_pct": 3.6,
+      "populacao_pct": 0.6,
+      "dif_pp": 3.0,
+      "cadeiras_proporcionais": 3,
+      "nome_cod": "Membros das forças armadas, policiais, bombeiros militares"
+    }
+  ],
+  "top_ocupacoes_declaradas": [
+    {
+      "ocupacao": "DEPUTADA/DEPUTADO",
+      "eleitos": 201,
+      "pct": 39.2
+    },
+    {
+      "ocupacao": "EMPRESÁRIA/EMPRESÁRIO",
+      "eleitos": 61,
+      "pct": 11.9
+    },
+    {
+      "ocupacao": "ADVOGADA/ADVOGADO",
+      "eleitos": 55,
+      "pct": 10.7
+    },
+    {
+      "ocupacao": "MÉDICA/MÉDICO",
+      "eleitos": 30,
+      "pct": 5.8
+    },
+    {
+      "ocupacao": "VEREADORA/VEREADOR",
+      "eleitos": 27,
+      "pct": 5.3
+    },
+    {
+      "ocupacao": "ADMINISTRADORA/ADMINISTRADOR",
+      "eleitos": 10,
+      "pct": 1.9
+    },
+    {
+      "ocupacao": "SERVIDOR PÚBLICO ESTADUAL",
+      "eleitos": 9,
+      "pct": 1.8
+    },
+    {
+      "ocupacao": "OUTROS",
+      "eleitos": 9,
+      "pct": 1.8
+    },
+    {
+      "ocupacao": "PROFESSORA/PROFESSOR DE ENSINO SUPERIOR",
+      "eleitos": 8,
+      "pct": 1.6
+    },
+    {
+      "ocupacao": "ENGENHEIRA/ENGENHEIRO",
+      "eleitos": 8,
+      "pct": 1.6
+    }
+  ]
+}

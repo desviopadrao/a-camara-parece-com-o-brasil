@@ -1,0 +1,34 @@
+{
+  "nota": "percentual sobre eleitos com a informação declarada",
+  "dados": [
+    {
+      "ano": 2018,
+      "legislatura": "2019–2023",
+      "mulheres_n": 77,
+      "mulheres_pct": 15.0,
+      "pretos_pardos_n": 123,
+      "pretos_pardos_pct": 24.0
+    },
+    {
+      "ano": 2022,
+      "legislatura": "2023–2027",
+      "mulheres_n": 90,
+      "mulheres_pct": 17.5,
+      "pretos_pardos_n": 139,
+      "pretos_pardos_pct": 27.1
+    },
+    {
+      "ano": 2026,
+      "legislatura": "2027–2031",
+      "mulheres_n": 109,
+      "mulheres_pct": 21.2,
+      "pretos_pardos_n": 135,
+      "pretos_pardos_pct": 26.3
+    }
+  ],
+  "populacao_referencia": {
+    "mulheres_pct": 51.5,
+    "pretos_pardos_pct": 55.5,
+    "fonte": "Censo 2022"
+  }
+}

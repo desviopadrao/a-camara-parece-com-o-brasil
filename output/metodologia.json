@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "titulo": "Se a Câmara realmente representasse o Brasil?",
+    "periodo": "legislatura 2027–2031",
+    "extraido_em": "2026-11",
+    "fonte": "TSE (candidaturas 2018–2026) e IBGE (Censo 2022)",
+    "handle": "@desviopadrao.info"
+  },
+  "titulo": "Se a Câmara realmente representasse o Brasil?",
+  "autor": "Desvio Padrão (@desviopadrao.info)",
+  "data_extracao": "2026-11-06",
+  "fontes": [
+    {
+      "nome": "TSE — Candidatos (consulta_cand)",
+      "anos": [
+        2018,
+        2022,
+        2026
+      ],
+      "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_{ano}.zip",
+      "data_geracao": {
+        "2018": "13/11/2024",
+        "2022": "06/11/2026",
+        "2026": "06/11/2026"
+      }
+    },
+    {
+      "nome": "IBGE — Censo Demográfico 2022 (SIDRA)",
+      "tabelas": {
+        "9606": "População residente, por cor ou raça, segundo o sexo e a idade",
+        "10061": "Pessoas de 18 anos ou mais de idade, por nível de instrução, segundo os grupos de idade, o sexo e a cor ou raça",
+        "10264": "Pessoas de 14 anos ou mais ocupadas, por sexo, cor ou raça, contribuição previdenciária e grandes grupos de ocupação"
+      },
+      "url": "https://sidra.ibge.gov.br"
+    }
+  ],
+  "notas": [
+    "Câmara de referência: os 513 deputados federais eleitos em 2026 (legislatura 2027–2031), segundo o TSE. Licenças, cassações e decisões judiciais posteriores podem alterar quem exerce o mandato.",
+    "Gênero, cor/raça e ocupação são autodeclarados no registro de candidatura (TSE); sexo e cor/raça são autodeclarados no Censo 2022. Gênero FEMININO/MASCULINO do TSE foi comparado a Mulheres/Homens do Censo.",
+    "Gênero e cor/raça: comparação com a população residente total. Cor/raça: denominador = quem declarou (exclui 11.119 pessoas sem declaração no Censo).",
+    "Idade: idade dos eleitos na posse (01/02/2027) × população de 18 anos ou mais no Censo (2022), em faixas de 10 anos.",
+    "Escolaridade: comparação com a população de 25 anos ou mais. As 7 categorias do TSE foram agrupadas nos 4 níveis do Censo.",
+    "Ocupação: mapeamento próprio da lista do TSE para os grandes grupos da COD (sem tabela oficial de correspondência). Mandatos políticos (deputado, vereador, senador, ministro) ficam à parte; servidores sem cargo, aposentados, estudantes, donas de casa e 'outros' não são classificáveis.",
+    "Câmara proporcional: 513 cadeiras distribuídas pelo método dos maiores restos (Hamilton).",
+    "Funil: candidatos = candidaturas com votos totalizados (exclui #NULO). Em 2026, o TSE não publicou a situação de aptidão da candidatura.",
+    "Na base do TSE, um eleito de 2026 aparece com 20 anos na data da posse (abaixo do mínimo constitucional de 21); mantido como publicado.",
+    "Pretos e pardos: agregado de Preta + Parda, convenção do IBGE para população negra."
+  ]
+}

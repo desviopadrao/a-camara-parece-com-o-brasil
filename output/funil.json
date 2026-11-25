@@ -1,0 +1,339 @@
+{
+  "definicao_candidatos": "candidaturas a deputado federal com votos totalizados (DS_SIT_TOT_TURNO diferente de #NULO)",
+  "por_sexo": [
+    {
+      "ano": 2018,
+      "id": "homens",
+      "grupo": "Homens",
+      "candidatos": 5528,
+      "eleitos": 436,
+      "candidatos_pct": 68.4,
+      "eleitos_pct": 85.0,
+      "taxa_sucesso_pct": 7.9
+    },
+    {
+      "ano": 2018,
+      "id": "mulheres",
+      "grupo": "Mulheres",
+      "candidatos": 2555,
+      "eleitos": 77,
+      "candidatos_pct": 31.6,
+      "eleitos_pct": 15.0,
+      "taxa_sucesso_pct": 3.0
+    },
+    {
+      "ano": 2022,
+      "id": "homens",
+      "grupo": "Homens",
+      "candidatos": 6470,
+      "eleitos": 423,
+      "candidatos_pct": 64.9,
+      "eleitos_pct": 82.5,
+      "taxa_sucesso_pct": 6.5
+    },
+    {
+      "ano": 2022,
+      "id": "mulheres",
+      "grupo": "Mulheres",
+      "candidatos": 3498,
+      "eleitos": 90,
+      "candidatos_pct": 35.1,
+      "eleitos_pct": 17.5,
+      "taxa_sucesso_pct": 2.6
+    },
+    {
+      "ano": 2026,
+      "id": "homens",
+      "grupo": "Homens",
+      "candidatos": 4655,
+      "eleitos": 404,
+      "candidatos_pct": 63.0,
+      "eleitos_pct": 78.8,
+      "taxa_sucesso_pct": 8.7
+    },
+    {
+      "ano": 2026,
+      "id": "mulheres",
+      "grupo": "Mulheres",
+      "candidatos": 2738,
+      "eleitos": 109,
+      "candidatos_pct": 37.0,
+      "eleitos_pct": 21.2,
+      "taxa_sucesso_pct": 4.0
+    }
+  ],
+  "por_raca": [
+    {
+      "ano": 2018,
+      "id": "brancos",
+      "grupo": "Brancos",
+      "candidatos": 4651,
+      "eleitos": 387,
+      "candidatos_pct": 57.5,
+      "eleitos_pct": 75.4,
+      "taxa_sucesso_pct": 8.3
+    },
+    {
+      "ano": 2018,
+      "id": "outras_racas_amarela_e_indigena",
+      "grupo": "Outras raças (amarela e indígena)",
+      "candidatos": 93,
+      "eleitos": 3,
+      "candidatos_pct": 1.2,
+      "eleitos_pct": 0.6,
+      "taxa_sucesso_pct": 3.2
+    },
+    {
+      "ano": 2018,
+      "id": "pretos_e_pardos",
+      "grupo": "Pretos e pardos",
+      "candidatos": 3339,
+      "eleitos": 123,
+      "candidatos_pct": 41.3,
+      "eleitos_pct": 24.0,
+      "taxa_sucesso_pct": 3.7
+    },
+    {
+      "ano": 2022,
+      "id": "brancos",
+      "grupo": "Brancos",
+      "candidatos": 5034,
+      "eleitos": 366,
+      "candidatos_pct": 50.8,
+      "eleitos_pct": 71.5,
+      "taxa_sucesso_pct": 7.3
+    },
+    {
+      "ano": 2022,
+      "id": "outras_racas_amarela_e_indigena",
+      "grupo": "Outras raças (amarela e indígena)",
+      "candidatos": 95,
+      "eleitos": 7,
+      "candidatos_pct": 1.0,
+      "eleitos_pct": 1.4,
+      "taxa_sucesso_pct": 7.4
+    },
+    {
+      "ano": 2022,
+      "id": "pretos_e_pardos",
+      "grupo": "Pretos e pardos",
+      "candidatos": 4781,
+      "eleitos": 139,
+      "candidatos_pct": 48.2,
+      "eleitos_pct": 27.1,
+      "taxa_sucesso_pct": 2.9
+    },
+    {
+      "ano": 2026,
+      "id": "brancos",
+      "grupo": "Brancos",
+      "candidatos": 3853,
+      "eleitos": 374,
+      "candidatos_pct": 52.1,
+      "eleitos_pct": 72.9,
+      "taxa_sucesso_pct": 9.7
+    },
+    {
+      "ano": 2026,
+      "id": "outras_racas_amarela_e_indigena",
+      "grupo": "Outras raças (amarela e indígena)",
+      "candidatos": 111,
+      "eleitos": 4,
+      "candidatos_pct": 1.5,
+      "eleitos_pct": 0.8,
+      "taxa_sucesso_pct": 3.6
+    },
+    {
+      "ano": 2026,
+      "id": "pretos_e_pardos",
+      "grupo": "Pretos e pardos",
+      "candidatos": 3429,
+      "eleitos": 135,
+      "candidatos_pct": 46.4,
+      "eleitos_pct": 26.3,
+      "taxa_sucesso_pct": 3.9
+    }
+  ],
+  "por_sexo_raca": [
+    {
+      "ano": 2018,
+      "id": "homens_brancos",
+      "grupo": "Homens brancos",
+      "candidatos": 3242,
+      "eleitos": 324,
+      "candidatos_pct": 40.1,
+      "eleitos_pct": 63.2,
+      "taxa_sucesso_pct": 10.0
+    },
+    {
+      "ano": 2018,
+      "id": "homens_de_outras_racas",
+      "grupo": "Homens de outras raças",
+      "candidatos": 55,
+      "eleitos": 2,
+      "candidatos_pct": 0.7,
+      "eleitos_pct": 0.4,
+      "taxa_sucesso_pct": 3.6
+    },
+    {
+      "ano": 2018,
+      "id": "homens_pretos_e_pardos",
+      "grupo": "Homens pretos e pardos",
+      "candidatos": 2231,
+      "eleitos": 110,
+      "candidatos_pct": 27.6,
+      "eleitos_pct": 21.4,
+      "taxa_sucesso_pct": 4.9
+    },
+    {
+      "ano": 2018,
+      "id": "mulheres_brancas",
+      "grupo": "Mulheres brancas",
+      "candidatos": 1409,
+      "eleitos": 63,
+      "candidatos_pct": 17.4,
+      "eleitos_pct": 12.3,
+      "taxa_sucesso_pct": 4.5
+    },
+    {
+      "ano": 2018,
+      "id": "mulheres_de_outras_racas",
+      "grupo": "Mulheres de outras raças",
+      "candidatos": 38,
+      "eleitos": 1,
+      "candidatos_pct": 0.5,
+      "eleitos_pct": 0.2,
+      "taxa_sucesso_pct": 2.6
+    },
+    {
+      "ano": 2018,
+      "id": "mulheres_pretas_e_pardas",
+      "grupo": "Mulheres pretas e pardas",
+      "candidatos": 1108,
+      "eleitos": 13,
+      "candidatos_pct": 13.7,
+      "eleitos_pct": 2.5,
+      "taxa_sucesso_pct": 1.2
+    },
+    {
+      "ano": 2022,
+      "id": "homens_brancos",
+      "grupo": "Homens brancos",
+      "candidatos": 3390,
+      "eleitos": 310,
+      "candidatos_pct": 34.2,
+      "eleitos_pct": 60.5,
+      "taxa_sucesso_pct": 9.1
+    },
+    {
+      "ano": 2022,
+      "id": "homens_de_outras_racas",
+      "grupo": "Homens de outras raças",
+      "candidatos": 56,
+      "eleitos": 4,
+      "candidatos_pct": 0.6,
+      "eleitos_pct": 0.8,
+      "taxa_sucesso_pct": 7.1
+    },
+    {
+      "ano": 2022,
+      "id": "homens_pretos_e_pardos",
+      "grupo": "Homens pretos e pardos",
+      "candidatos": 2984,
+      "eleitos": 108,
+      "candidatos_pct": 30.1,
+      "eleitos_pct": 21.1,
+      "taxa_sucesso_pct": 3.6
+    },
+    {
+      "ano": 2022,
+      "id": "mulheres_brancas",
+      "grupo": "Mulheres brancas",
+      "candidatos": 1644,
+      "eleitos": 56,
+      "candidatos_pct": 16.6,
+      "eleitos_pct": 10.9,
+      "taxa_sucesso_pct": 3.4
+    },
+    {
+      "ano": 2022,
+      "id": "mulheres_de_outras_racas",
+      "grupo": "Mulheres de outras raças",
+      "candidatos": 39,
+      "eleitos": 3,
+      "candidatos_pct": 0.4,
+      "eleitos_pct": 0.6,
+      "taxa_sucesso_pct": 7.7
+    },
+    {
+      "ano": 2022,
+      "id": "mulheres_pretas_e_pardas",
+      "grupo": "Mulheres pretas e pardas",
+      "candidatos": 1797,
+      "eleitos": 31,
+      "candidatos_pct": 18.1,
+      "eleitos_pct": 6.1,
+      "taxa_sucesso_pct": 1.7
+    },
+    {
+      "ano": 2026,
+      "id": "homens_brancos",
+      "grupo": "Homens brancos",
+      "candidatos": 2518,
+      "eleitos": 301,
+      "candidatos_pct": 34.1,
+      "eleitos_pct": 58.7,
+      "taxa_sucesso_pct": 12.0
+    },
+    {
+      "ano": 2026,
+      "id": "homens_de_outras_racas",
+      "grupo": "Homens de outras raças",
+      "candidatos": 64,
+      "eleitos": 2,
+      "candidatos_pct": 0.9,
+      "eleitos_pct": 0.4,
+      "taxa_sucesso_pct": 3.1
+    },
+    {
+      "ano": 2026,
+      "id": "homens_pretos_e_pardos",
+      "grupo": "Homens pretos e pardos",
+      "candidatos": 2073,
+      "eleitos": 101,
+      "candidatos_pct": 28.0,
+      "eleitos_pct": 19.7,
+      "taxa_sucesso_pct": 4.9
+    },
+    {
+      "ano": 2026,
+      "id": "mulheres_brancas",
+      "grupo": "Mulheres brancas",
+      "candidatos": 1335,
+      "eleitos": 73,
+      "candidatos_pct": 18.1,
+      "eleitos_pct": 14.2,
+      "taxa_sucesso_pct": 5.5
+    },
+    {
+      "ano": 2026,
+      "id": "mulheres_de_outras_racas",
+      "grupo": "Mulheres de outras raças",
+      "candidatos": 47,
+      "eleitos": 2,
+      "candidatos_pct": 0.6,
+      "eleitos_pct": 0.4,
+      "taxa_sucesso_pct": 4.3
+    },
+    {
+      "ano": 2026,
+      "id": "mulheres_pretas_e_pardas",
+      "grupo": "Mulheres pretas e pardas",
+      "candidatos": 1356,
+      "eleitos": 34,
+      "candidatos_pct": 18.3,
+      "eleitos_pct": 6.6,
+      "taxa_sucesso_pct": 2.5
+    }
+  ]
+}

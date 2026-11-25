@@ -1,0 +1,41 @@
+{
+  "referencia_populacao": "pessoas de 25 anos ou mais, Censo 2022",
+  "dados": [
+    {
+      "id": "sem_instrucao_e_fundamental_incompleto",
+      "grupo": "Sem instrução e fundamental incompleto",
+      "camara_n": 5,
+      "camara_pct": 1.0,
+      "populacao_pct": 35.2,
+      "dif_pp": -34.3,
+      "cadeiras_proporcionais": 181
+    },
+    {
+      "id": "fundamental_completo_e_medio_incompleto",
+      "grupo": "Fundamental completo e médio incompleto",
+      "camara_n": 11,
+      "camara_pct": 2.1,
+      "populacao_pct": 14.0,
+      "dif_pp": -11.9,
+      "cadeiras_proporcionais": 72
+    },
+    {
+      "id": "medio_completo_e_superior_incompleto",
+      "grupo": "Médio completo e superior incompleto",
+      "camara_n": 76,
+      "camara_pct": 14.8,
+      "populacao_pct": 32.3,
+      "dif_pp": -17.5,
+      "cadeiras_proporcionais": 166
+    },
+    {
+      "id": "superior_completo",
+      "grupo": "Superior completo",
+      "camara_n": 421,
+      "camara_pct": 82.1,
+      "populacao_pct": 18.4,
+      "dif_pp": 63.7,
+      "cadeiras_proporcionais": 94
+    }
+  ]
+}
